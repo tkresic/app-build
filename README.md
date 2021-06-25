@@ -5,3 +5,7 @@
 3. Login with:
  - Username: tkresic
  - Password: tkresic_foi_123
+
+or 
+- Username: dkermek
+- Password: dkermek_foi_123
