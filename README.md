@@ -7,7 +7,7 @@ Desktop cash register application which is supported by four microservices:
 - [Corporate](https://github.com/tkresic/corporate)
 - [Accounts](https://github.com/tkresic/accounts)
 
-The app GitHub repository can be found at [app](https://github.com/tkresic/app).
+The app source code can be found at [app](https://github.com/tkresic/app).
 
 ## Running the app
 
