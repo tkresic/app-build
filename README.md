@@ -12,7 +12,7 @@ The app GitHub repository for Windows can be found at [app](https://github.com/t
 ## Running the app
 
 1. Extract the files
-2. Run app.exe
+2. Run `app.exe` (allow Windows to run the app)
 3. Login with:
- - Username: tkresic | dkermek | jdoe
- - Password: tkresic_foi_123 | dkermek_foi_123 | jdoe_foi_123
+   - Username: tkresic | dkermek | jdoe
+   - Password: tkresic_foi_123 | dkermek_foi_123 | jdoe_foi_123
