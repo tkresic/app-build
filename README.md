@@ -16,3 +16,10 @@ The app source code can be found at [app](https://github.com/tkresic/app).
 3. Login with:
    - Username: tkresic | dkermek | jdoe
    - Password: tkresic_foi_123 | dkermek_foi_123 | jdoe_foi_123
+
+## Demonstration
+
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/tkresic/app-build/main/Demonstracija.gif">
+</p>
